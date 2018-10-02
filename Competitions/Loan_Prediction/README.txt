@@ -1,0 +1,1 @@
+This notebook is an attempt to solve the loan prediction problem hosted on AnalyticsVidhya platform. More information about it can be obtained at https://www.analyticsvidhya.com/.
